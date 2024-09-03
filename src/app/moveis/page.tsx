@@ -18,7 +18,7 @@ export default function Moveis(){
                     <p className="text-2xl bg-red-500"> Projeto no Git em breve play store</p>
 
                 <Github />
-                <a href="https://github.com/camposalan">meu GitHub</a>
+                <a href="https://github.com/camposalan">Me GitHub</a>
                 
 
             <video autoPlay muted loop className="absolute z-10 w-auto min-w-full min-h-full   opacity-70">
