@@ -1,0 +1,148 @@
+*{
+    margin: 0px;
+    box-sizing: border-box;
+
+}
+
+.consulta{
+    
+    color: rgb(49, 35, 100);
+    font-size: 26px;
+    font-family: cursive Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    justify-content: center;
+    align-items: center;
+}
+
+.pagina-api{
+
+
+
+   
+
+    main{
+        padding: 20px;
+     
+    }
+    .correio{
+        font-size: 24px;
+    }
+    .correio input, .correio button{
+        font-size: 20px;
+        padding: 10px;
+        margin: 10px 5px;
+    }
+    .hulk{
+        width: 400px;
+        height: 300px;
+    }
+    .filmes{
+        font-size: 24px;
+    }
+    .filmes input, .filmes button{
+        font-size: 20px;
+        padding: 10px;
+        margin: 10px 5px;
+    }
+    .botao{
+        color: white;
+        border: 2px solid blue;
+        border-radius: 4px;
+        background-color: blueviolet;
+    }
+    .lista-filmes{
+        display: flex;
+        gap:30px;
+        flex-wrap: wrap;
+        
+    }
+    .card-filme{
+        display: flex;
+        gap: 20px;
+        border: 2px solid black;
+       
+        padding: 10px;
+
+        border-radius: 7px;
+
+        width: 600px;
+
+        background-color: black;
+        color: aliceblue;
+
+        img{
+            width: 200px;
+        }
+        h1{
+            font-size: 25px;
+        }
+        
+
+    }
+    
+ 
+
+}
+
+
+.faixa2{
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: center;
+    background-color: rgb(100, 133, 133);
+    padding: 70px 0px;
+
+}
+
+.f2-textos{
+    width: 450px;
+    max-width: 450px;
+}
+.f2-textos h1{
+    display: flex;
+    flex-direction: column;
+ 
+    font: 700 40px bold;
+    margin-left: 50px;
+    margin-bottom: 20px;
+
+}
+
+.f2-textos p{
+    font:400 18px Arial;
+    color:rgb(87, 83, 83);
+    line-height: 25px;
+    margin-left: 50px;
+}
+.f2-textos h2{
+    margin-left: 50px;
+}
+.faixa3{
+    display: flex;
+    flex-direction: row;
+}
+
+.contato{
+    display: flex;
+    flex-direction: column;
+    font: 700 24px bold;
+    color:darkcyan
+}
+.diversos{
+    font:700 24px medium;
+}
+.exp p{
+    font:400 18px Arial;
+    color:rgb(87, 83, 83);
+    line-height: 25px;
+ 
+
+}
+@media (max-width:768px) {
+
+    .faixa2{
+        flex-direction: column;
+        padding: 20px;
+   
+    }
+}
