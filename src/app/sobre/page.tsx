@@ -2,7 +2,7 @@
 import "../styles/styles.scss"
 
 import NavBar from "../componentes/navbar"
-//import { Linkedin } from "lucide-react";
+
 
 
 

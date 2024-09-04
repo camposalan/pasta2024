@@ -6,9 +6,7 @@ import pc from "C:/single/filmes/public/video/cnh.png"
 
 
 import NavBar from "./componentes/navbar";
-import Title from "./componentes/title";
-import Card from "./componentes/card";
-import Link from "next/link";
+
 
 
 
