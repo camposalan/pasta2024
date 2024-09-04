@@ -3,12 +3,11 @@ import "../styles/styles.scss"
 
 import NavBar from "../componentes/navbar"
 
-
-
-
 import Image from 'next/image';
 
-import foto from "..alan.png" 
+import foto from "./alan.png" 
+
+
 
 export default function Sobre(){
     return(
@@ -34,7 +33,8 @@ export default function Sobre(){
           <h1 className="contato"> Contato</h1>
           <p> 22997315476</p>
           <p>camposalan@hotmail.com</p>
-          <a href="https://github.com/camposalan">meu Git</a>
+          <a href="https://github.com/camposalan">meu Git.</a>
+          <br></br>
           <a href="https://linkedin.com/in/alan-campos-da-silva-b57774165">meu linkedin</a>
           </div>
     
