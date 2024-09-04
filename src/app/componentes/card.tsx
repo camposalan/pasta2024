@@ -1,4 +1,6 @@
-import { Bookmark, BookmarkCheck, Star } from "lucide-react"
+//import { Bookmark, BookmarkCheck, Star } from "lucide-react"
+
+import { Star } from "lucide-react"
 
 interface Cardprops{
     filme: {
@@ -12,8 +14,8 @@ interface Cardprops{
 export default function Card({filme}:Cardprops){
     return(
         <div  className="flex flex-col items-center w-40 gap-2 relative">
-            <Bookmark className="absolute right-2 top-2 cursor-pointer text-white" />
-            <BookmarkCheck className="absolute right-2 top-2 cursor-pointer text-amber-300" />
+            //Bookmark className="absolute right-2 top-2 cursor-pointer text-white" /
+            //BookmarkCheck className="absolute right-2 top-2 cursor-pointer text-amber-300//
             
                 <img className="rounded-lg" src={filme.poster} alt="poster do filme"/>
                 <span className="text-lg font-medium line-clamp-1">

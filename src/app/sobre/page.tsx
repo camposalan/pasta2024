@@ -17,7 +17,7 @@ export default function Sobre(){
 
         <div className="faixa2">
 
-          <Image className="image" src={foto} />
+          <Image className="image" src={foto} alt={"descricao"} />
 
           <div className="f2-textos">
             <h1 className="lugar">Alan Campos da Silva</h1>

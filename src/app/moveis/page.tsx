@@ -1,5 +1,5 @@
 import NavBar from "../componentes/navbar"
-import { Github } from "lucide-react"
+//import { Github } from "lucide-react"
 
 
 export default function Moveis(){
@@ -17,7 +17,7 @@ export default function Moveis(){
                 
                     <p className="text-2xl bg-red-500"> Projeto no Git em breve play store</p>
 
-                <Github />
+             
                 <a href="https://github.com/camposalan">Me GitHub</a>
                 
 
