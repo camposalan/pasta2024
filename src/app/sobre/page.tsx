@@ -8,7 +8,7 @@ import NavBar from "../componentes/navbar"
 
 import Image from 'next/image';
 
-import foto from "C:/single/filmes/src/app/sobre/alan.png" 
+import foto from "..alan.png" 
 
 export default function Sobre(){
     return(
