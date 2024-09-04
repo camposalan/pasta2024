@@ -1,5 +1,5 @@
 import NavBar from "../componentes/navbar"
-//import { Github } from "lucide-react"
+
 
 
 export default function Moveis(){
