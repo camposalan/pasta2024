@@ -2,8 +2,9 @@
 import "../styles/styles.scss"
 
 import NavBar from "../componentes/navbar"
-import { Linkedin } from "lucide-react";
-import { Github } from "lucide-react";
+//import { Linkedin } from "lucide-react";
+
+
 
 import Image from 'next/image';
 
@@ -33,17 +34,16 @@ export default function Sobre(){
           <h1 className="contato"> Contato</h1>
           <p> 22997315476</p>
           <p>camposalan@hotmail.com</p>
-          <Linkedin/>
+          
           <a href="https://linkedin.com/in/alan-campos-da-silva-b57774165">meu linkedin</a>
+          </div>
     
           
         
      
 
         
-          <Github />
-          <a href="https://github.com/camposalan">meu GitHub</a>
-          </div>
+          
         
           <br></br>
 
