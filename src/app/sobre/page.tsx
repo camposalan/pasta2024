@@ -5,7 +5,7 @@ import NavBar from "../componentes/navbar"
 
 import Image from 'next/image';
 
-import foto from "./alan.png" 
+import foto from '../images/alan.png';
 
 
 

@@ -1,7 +1,7 @@
 
-import Image from 'next/image';
 
-import pc from "C:/single/filmes/public/video/cnh.png" 
+
+
 
 
 
