@@ -15,13 +15,7 @@ export default function Home() {
         <source src={'video/alan.mp4'}/>
        
       </video>
-      <div className="relative z-30 opacity-70">
-    
-        
-    <h4>teste</h4>
-
-
-      </div>
+      z
 
             
      
