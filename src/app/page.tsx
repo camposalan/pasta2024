@@ -1,29 +1,9 @@
-
-
-
-
-
-
-
 import NavBar from "./componentes/navbar";
 
 
 
 
 export default function Home() {
-  const filme1 = {
-    poster:"https://media.themoviedb.org/t/p/w220_and_h330_face/9h2KgGXSmWigNTn3kQdEFFngj9i.jpg",
-    titulo:"Divertidamente",
-    nota:7.9
-  }
-  const filme2 = {
-    
-    poster:"https://media.themoviedb.org/t/p/w220_and_h330_face/8mUITts4spdowHo7CEW7aATQ4pE.jpg",
-    titulo:"Twister",
-    nota:7.9
-  }
-
-
 
   return (
     <main className="flex min-h-screen flex-col ">
@@ -36,10 +16,7 @@ export default function Home() {
        
       </video>
       <div className="relative z-30 opacity-70">
-
-       
-
-       
+    
         
     
 
