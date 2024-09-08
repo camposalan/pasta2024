@@ -11,7 +11,7 @@ export default function NavBar(){
            </Link>
           
         </div>
-        <Link className="text-blue-200 font-bold" href="/sobre">Sobre</Link>
+        <Link className="text-blue-200 font-bold" href="https://sobremim-kappa.vercel.app/">Sobre</Link>
         <Link className="text-blue-200 font-bold" href="/altas">Filmes</Link>
         <Link className="text-blue-200 font-bold" href="https://cardapioreplay-line.vercel.app">Cardapio</Link>
         <Link className="text-blue-200 font-bold" href="https://exemploreact.vercel.app">Api</Link>
