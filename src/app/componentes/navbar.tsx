@@ -12,10 +12,11 @@ export default function NavBar(){
           
         </div>
         <Link className="text-blue-200 font-bold" href="https://sobremim-kappa.vercel.app/">Sobre</Link>
-        <Link className="text-blue-200 font-bold" href="/altas">Filmes</Link>
+        <Link className="text-blue-200 font-bold" href="/altas">PHP</Link>
         <Link className="text-blue-200 font-bold" href="https://cardapioreplay-line.vercel.app">Cardapio</Link>
-        <Link className="text-blue-200 font-bold" href="https://exemploreact.vercel.app">Api</Link>
-        <Link className="text-blue-200 font-bold" href="/moveis">Móveis</Link>
+        <Link className="text-blue-200 font-bold" href="https://exemploreact.vercel.app">Exemplos Uso React</Link>
+        <Link className="text-blue-200 font-bold" href="https://filmesreact.vercel.app">Filmes</Link>
+        <Link className="text-blue-200 font-bold" href="https://coruscating-rugelach-b1ab13.netlify.app/pages/home/index.html">Certificados</Link>
     
 
      
